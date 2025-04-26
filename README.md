@@ -1,4 +1,4 @@
-# Survival Cluster Analysis (Reproduction)
+# Survival Cluster Analysis
 
 This repository contains a reproduction of the method described in the paper:  
 > **"Unsupervised Learning of Clusters with Survival Outcomes"**  
